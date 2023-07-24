@@ -1,5 +1,11 @@
 const input = document.querySelector("input");
 
+input.addEventListener('keyup', function(event){
+  if(event.keyCode === 13){
+      random()
+  }
+})
+
 arr = [
   "It is certain.",
   "As I see it, yes.",
