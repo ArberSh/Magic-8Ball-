@@ -13,7 +13,7 @@ arr = [
   "Yes definitely.",
 ]; //Pergjigje
 // sa her qe te kontrollosh input atehere perher shto .value sic e bona rn sepse kshu afishohet ca ka brenda a
-console.log(input.value)
+
 
 function random() {
   if (input.value === "") {
