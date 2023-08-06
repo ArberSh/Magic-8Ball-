@@ -17,8 +17,7 @@ arr = [
   "My sources say no.",
   "Very doubtful.",
   "Yes definitely.",
-]; //Pergjigje
-// sa her qe te kontrollosh input atehere perher shto .value sic e bona rn sepse kshu afishohet ca ka brenda a
+]; //Answers
 
 
 function random() {
