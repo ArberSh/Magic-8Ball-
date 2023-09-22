@@ -92,7 +92,9 @@ h2{
     top: 0;
     bottom: 3.5rem;
     margin: auto;
-    font-size: 14px;
+    width: 100%;
+    max-width: 8em;
+    font-size: 16px;
     height: 10rem;
 }
 .tab--open #answering{
